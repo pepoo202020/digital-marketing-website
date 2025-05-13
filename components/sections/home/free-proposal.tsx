@@ -8,7 +8,8 @@ export const FreeProposal = () => {
           {/* Content */}
           <div className="flex flex-col justify-start items-start gap-4 md:gap-6 max-w-full md:max-w-[500px] z-10">
             <h2 className="text-2xl md:text-3xl font-medium text-black">
-              Let's make things happen
+              // Change from: Let's talk // To: Let&apos;s talk Let's make
+              things happen
             </h2>
             <p className="text-base md:text-lg text-black">
               Contact us today to learn more about how our digital marketing

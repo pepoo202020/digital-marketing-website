@@ -73,7 +73,7 @@ export const ContactUs = () => {
           Contact Us
         </div>
         <p className="max-w-[323px] text-base md:text-lg text-center lg:text-left">
-          Connect with Us: Let's Discuss Your Digital Marketing Needs
+          Connect with Us: Let&apos;s Discuss Your Digital Marketing Needs
         </p>
       </div>
 
